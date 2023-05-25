@@ -1,0 +1,353 @@
+[
+  {
+    "id": 1,
+    "name": "Munir Islam",
+ "description": "Munir Islam is a Bangladeshi chef and culinary artist known for her innovative fusion of traditional Bangladeshi flavors and modern cooking techniques.",
+    "pic": "https://img.freepik.com/free-photo/chef-posing-with-knife-his-kitchen_155003-502.jpg?size=626&ext=jpg&ga=GA1.1.145880518.1681239594&semt=ais",
+    "experience": "20 years",
+    "no_of_recipe": 500,
+    "likes": 10000,
+    "recipes": [
+    {
+        "name": "Beef Bhuna",
+        "pic": "https://img.freepik.com/premium-photo/sukha-mutton-chicken-dry-spicy-murgh-goat-meat-served-plate-bowl_466689-82788.jpg?size=626&ext=jpg&ga=GA1.1.145880518.1681239594&semt=ais",
+        "ingredients": [
+          "Beef",
+          "Onions",
+          "Ginger",
+          "Garlic",
+          "Tomatoes",
+          "Spices (cumin, coriander, turmeric, chili powder)"
+        ],
+        "method": " Heat oil in a pan and fry the onions until golden brown. Add ginger and garlic and fry until fragrant. Add the beef and spices and cook until the beef is browned. Add tomatoes and cook until the tomatoes are soft and the beef is tender. Serve hot.",
+        "rating": 4.7
+      },
+      {
+        "name": "Chingri Malai Curry",
+        "pic": "https://media.istockphoto.com/id/1254274918/photo/indian-jumbo-tiger-prawns-bengali-and-kolkatas-most-popular-dish-chingri-malai-curry.jpg?s=2048x2048&w=is&k=20&c=PW1VFBwjpiMpjpxZ8m4OCTxZbeASEg_2n2TLwmKp6Ac=",
+        "ingredients": [
+          "Shrimp",
+          "Coconut Milk",
+          "Onions",
+          "Ginger",
+          "Garlic",
+          "Spices (cumin, coriander, turmeric, chili powder, garam masala)"
+        ],
+        "method": " Fry onions until golden brown. Add ginger and garlic and fry until fragrant. Add spices and fry for a few more minutes. Add shrimp and cook until they turn pink. Add coconut milk and cook for a few more minutes. Serve hot with rice.",
+        "rating": 4.6
+      },
+      {
+        "name": "Fish Bhuna",
+        "pic": "https://img.freepik.com/premium-photo/fish-curry-seer-fish-curry-traditional-indian-fish-curry-kerala-special-dish-using-coconut-arranged-white-bowl-garnished-with-curry-leaves-malabar-tamarind-white-textured-background_527904-2022.jpg?size=626&ext=jpg&ga=GA1.2.145880518.1681239594&semt=ais",
+        "ingredients": [
+          "Fish",
+          "Onions",
+          "Ginger",
+          "Garlic",
+          "Tomatoes",
+          "Spices (cumin, coriander, turmeric, chili powder)"
+        ],
+        "method": " Heat oil in a pan and fry the onions until golden brown. Add ginger and garlic and fry until fragrant. Add the fish and spices and cook until the fish is browned. Add tomatoes and cook until the tomatoes are soft and the fish is tender. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "name": "Beef Kala Bhuna",
+        "pic": "https://media.istockphoto.com/id/1419947568/photo/bhuna-gosht-or-beef-kala-bhuna-with-onion-pepper-and-salad-served-in-a-dish-isolated-on.jpg?s=612x612&w=is&k=20&c=0CtE0M1H9TJeYo2PLCFMemAJ1uJ-FPfgawXvDNcQBJQ=",
+        "ingredients": [
+          "Beef",
+          "Onions",
+          "Garlic",
+          "Ginger",
+          "Green Chilies",
+          "Spices (cumin, coriander, turmeric, chili powder, garam masala)"
+        ],
+        "method": " Fry onions until golden brown. Add garlic, ginger, and green chilies and fry until fragrant. Add beef and spices and cook until the beef is browned. Add a little water and cook until the beef is tender. Serve hot.",
+        "rating": 4.8
+      }
+    ]
+  },
+
+
+
+
+  {
+    "id": 2,
+    "name": "Tony Khan",
+"description": "Tony Khan is a Bangladeshi chef and restaurateur known for his dedication to preserving and promoting traditional Bangladeshi cuisine.",  
+    "pic": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.cordonbleu.edu%2FFiles%2FMediaFile%2F79299.jpg&tbnid=kSTKmajoZxiVTM&vet=12ahUKEwjFrfb65Nn-AhXQ6HMBHduqANUQMygfegUIARCvAg..i&imgrefurl=https%3A%2F%2Fwww.cordonbleu.edu%2Fmexico%2Four-chefs%2Fen&docid=YaDdu4VXbxpXVM&w=2470&h=3705&q=chef%20pictures&ved=2ahUKEwjFrfb65Nn-AhXQ6HMBHduqANUQMygfegUIARCvAg",
+    "experience": "30 years",
+    "no_of_recipe": 750,
+    "likes": 15000,
+    "recipes": [
+         {
+            "name": "Chicken Biryani",
+            "pic": "https://images.unsplash.com/photo-1672856399675-8c099efbe0e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+            "ingredients": [
+              "Chicken",
+              "Rice",
+              "Onions",
+              "Spices (cumin, coriander, turmeric, chili powder, garam masala)",
+              "Yogurt"
+            ],
+            "method": " Marinate chicken in yogurt and spices for at least an hour. Fry onions until golden brown. Add chicken and fry until browned. Boil rice and add the chicken mixture to it. Cook on low heat for about 20 minutes or until the rice is cooked. Serve hot.",
+            "rating": 4.9
+      },
+      {
+        "name": "Fish Bhuna",
+        "pic": "https://img.freepik.com/premium-photo/fish-curry-seer-fish-curry-traditional-indian-fish-curry-kerala-special-dish-using-coconut-arranged-white-bowl-garnished-with-curry-leaves-malabar-tamarind-white-textured-background_527904-2022.jpg?size=626&ext=jpg&ga=GA1.2.145880518.1681239594&semt=ais",
+        "ingredients": [
+          "Fish",
+          "Onions",
+          "Ginger",
+          "Garlic",
+          "Tomatoes",
+          "Spices (cumin, coriander, turmeric, chili powder)"
+        ],
+        "method": " Heat oil in a pan and fry the onions until golden brown. Add ginger and garlic and fry until fragrant. Add the fish and spices and cook until the fish is browned. Add tomatoes and cook until the tomatoes are soft and the fish is tender. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "name": "Shorshe Ilish",
+        "pic": "https://img.freepik.com/free-photo/medium-shot-chef-posing_23-2148723238.jpg?size=626&ext=jpg&ga=GA1.2.145880518.1681239594&semt=ais",
+        "ingredients": [
+          "Hilsa fish",
+          "Mustard paste",
+          "Turmeric powder",
+          "Green chilies",
+          "Mustard oil",
+          "Salt"
+        ],
+        "method": " Marinate the fish with turmeric and salt for 10 minutes. Heat mustard oil in a pan and fry the fish until browned. In the same oil, add mustard paste and green chilies and cook until fragrant. Add a little water and cook until the sauce thickens. Add the fish to the sauce and cook for a few more minutes. Serve hot with rice.",
+        "rating": 4.7
+      }  
+   ]
+  },
+
+
+  {
+    "id": 3,
+    "name": "Tamim Rahman",
+"description": "Tamim Rahman is a Bangladeshi chef and food writer known for his work in promoting healthy and sustainable eating habits.",
+    "pic": "https://img.freepik.com/free-photo/male-chef-uniform-apron-hat-cutting-onion-wooden-board-kitchen_176474-9007.jpg?w=360&t=st=1682970803~exp=1682971403~hmac=9ead3db354431b88a341202f182429e6bf110935b14916ec7e518bc6709ea267",
+    "experience": "25 years",
+    "no_of_recipe": 400,
+    "likes": 8000,
+    "recipes":[
+      {
+        "name": "Chingri Malai Curry",
+        "pic": "https://media.istockphoto.com/id/1254274918/photo/indian-jumbo-tiger-prawns-bengali-and-kolkatas-most-popular-dish-chingri-malai-curry.jpg?s=2048x2048&w=is&k=20&c=PW1VFBwjpiMpjpxZ8m4OCTxZbeASEg_2n2TLwmKp6Ac=",
+        "ingredients": [
+          "Shrimp",
+          "Coconut Milk",
+          "Onions",
+          "Ginger",
+          "Garlic",
+          "Spices (cumin, coriander, turmeric, chili powder, garam masala)"
+        ],
+        "method": " Fry onions until golden brown. Add ginger and garlic and fry until fragrant. Add spices and fry for a few more minutes. Add shrimp and cook until they turn pink. Add coconut milk and cook for a few more minutes. Serve hot with rice.",
+        "rating": 4.6
+      },
+      {
+        "name": "Beef Bhuna",
+        "pic": "https://img.freepik.com/premium-photo/sukha-mutton-chicken-dry-spicy-murgh-goat-meat-served-plate-bowl_466689-82788.jpg?size=626&ext=jpg&ga=GA1.1.145880518.1681239594&semt=ais",
+        "ingredients": [
+          "Beef",
+          "Onions",
+          "Ginger",
+          "Garlic",
+          "Tomatoes",
+          "Spices (cumin, coriander, turmeric, chili powder)"
+        ],
+        "method": " Heat oil in a pan and fry the onions until golden brown. Add ginger and garlic and fry until fragrant. Add the beef and spices and cook until the beef is browned. Add tomatoes and cook until the tomatoes are soft and the beef is tender. Serve hot.",
+        "rating": 4.7
+      },
+      {
+        "name": "Beef Kala Bhuna",
+        "pic": "https://media.istockphoto.com/id/1419947568/photo/bhuna-gosht-or-beef-kala-bhuna-with-onion-pepper-and-salad-served-in-a-dish-isolated-on.jpg?s=612x612&w=is&k=20&c=0CtE0M1H9TJeYo2PLCFMemAJ1uJ-FPfgawXvDNcQBJQ=",
+        "ingredients": [
+          "Beef",
+          "Onions",
+          "Garlic",
+          "Ginger",
+          "Green Chilies",
+          "Spices (cumin, coriander, turmeric, chili powder, garam masala)"
+        ],
+        "method": " Fry onions until golden brown. Add garlic, ginger, and green chilies and fry until fragrant. Add beef and spices and cook until the beef is browned. Add a little water and cook until the beef is tender. Serve hot.",
+        "rating": 4.8
+      }
+  ]
+  },
+
+
+  {
+    "id": 4,
+    "name": "Shawkat Osman",
+"description": "Shawkat Osman is a Bangladeshi chef and culinary educator known for his passion for teaching traditional Bangladeshi cooking methods to younger generations.",
+    "pic": "https://img.freepik.com/free-photo/medium-shot-chef-posing_23-2148723238.jpg?size=626&ext=jpg&ga=GA1.2.145880518.1681239594&semt=ais",
+    "experience": "22 years",
+    "no_of_recipe": 550,
+    "likes": 12000,
+    "recipes": [
+     {
+        "name": "Fish Bhuna",
+        "pic": "https://img.freepik.com/premium-photo/fish-curry-seer-fish-curry-traditional-indian-fish-curry-kerala-special-dish-using-coconut-arranged-white-bowl-garnished-with-curry-leaves-malabar-tamarind-white-textured-background_527904-2022.jpg?size=626&ext=jpg&ga=GA1.2.145880518.1681239594&semt=ais",
+        "ingredients": [
+          "Fish",
+          "Onions",
+          "Ginger",
+          "Garlic",
+          "Tomatoes",
+          "Spices (cumin, coriander, turmeric, chili powder)"
+        ],
+        "method": " Heat oil in a pan and fry the onions until golden brown. Add ginger and garlic and fry until fragrant. Add the fish and spices and cook until the fish is browned. Add tomatoes and cook until the tomatoes are soft and the fish is tender. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "name": "Chicken Biryani",
+        "pic": "https://images.unsplash.com/photo-1672856399675-8c099efbe0e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "ingredients": [
+          "Chicken",
+          "Rice",
+          "Onions",
+          "Spices (cumin, coriander, turmeric, chili powder, garam masala)",
+          "Yogurt"
+        ],
+        "method": " Marinate chicken in yogurt and spices for at least an hour. Fry onions until golden brown. Add chicken and fry until browned. Boil rice and add the chicken mixture to it. Cook on low heat for about 20 minutes or until the rice is cooked. Serve hot.",
+        "rating": 4.9
+  },
+  {
+    "name": "Chingri Malai Curry",
+    "pic": "https://media.istockphoto.com/id/1254274918/photo/indian-jumbo-tiger-prawns-bengali-and-kolkatas-most-popular-dish-chingri-malai-curry.jpg?s=2048x2048&w=is&k=20&c=PW1VFBwjpiMpjpxZ8m4OCTxZbeASEg_2n2TLwmKp6Ac=",
+    "ingredients": [
+      "Shrimp",
+      "Coconut Milk",
+      "Onions",
+      "Ginger",
+      "Garlic",
+      "Spices (cumin, coriander, turmeric, chili powder, garam masala)"
+    ],
+    "method": " Fry onions until golden brown. Add ginger and garlic and fry until fragrant. Add spices and fry for a few more minutes. Add shrimp and cook until they turn pink. Add coconut milk and cook for a few more minutes. Serve hot with rice.",
+    "rating": 4.6
+  },  
+  {
+    "name": "Shorshe Ilish",
+    "pic": "https://media.istockphoto.com/id/1446832369/photo/top-view-of-a-shorshe-ilish-a-fish-cooking-with-mustard-seed-famous-bengali-food-white.jpg?s=612x612&w=is&k=20&c=THNoXOT0rDwByUmq8TnSFoAl6kj9pkIRm-BPnTP1f0w=",
+    "ingredients": [
+      "Hilsa fish",
+      "Mustard paste",
+      "Turmeric powder",
+      "Green chilies",
+      "Mustard oil",
+      "Salt"
+    ],
+    "method": " Marinate the fish with turmeric and salt for 10 minutes. Heat mustard oil in a pan and fry the fish until browned. In the same oil, add mustard paste and green chilies and cook until fragrant. Add a little water and cook until the sauce thickens. Add the fish to the sauce and cook for a few more minutes. Serve hot with rice.",
+    "rating": 4.7
+  }
+]
+  },
+  {
+    "id": 5,
+    "name": "Bithi Begum",
+     "description": "Bithi Begum is a Bangladeshi chef and social activist known for her work in promoting gender equality and empowering women through culinary training programs.",
+    "pic": "https://img.freepik.com/free-photo/successful-happy-eldery-chef-crossed-arms-portrait-white-wall-isolated_496169-2632.jpg?size=626&ext=jpg&ga=GA1.1.145880518.1681239594&semt=ais",
+    "experience": "15 years",
+    "no_of_recipe": 300,
+    "likes": 5000,
+    "recipes":[
+       {
+        "name": "Beef Kala Bhuna",
+        "pic": "https://media.istockphoto.com/id/1419947568/photo/bhuna-gosht-or-beef-kala-bhuna-with-onion-pepper-and-salad-served-in-a-dish-isolated-on.jpg?s=612x612&w=is&k=20&c=0CtE0M1H9TJeYo2PLCFMemAJ1uJ-FPfgawXvDNcQBJQ=",
+        "ingredients": [
+          "Beef",
+          "Onions",
+          "Garlic",
+          "Ginger",
+          "Green Chilies",
+          "Spices (cumin, coriander, turmeric, chili powder, garam masala)"
+        ],
+        "method": " Fry onions until golden brown. Add garlic, ginger, and green chilies and fry until fragrant. Add beef and spices and cook until the beef is browned. Add a little water and cook until the beef is tender. Serve hot.",
+        "rating": 4.8
+      },
+      {
+        "name": "Chicken Biryani",
+        "pic": "https://images.unsplash.com/photo-1672856399675-8c099efbe0e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "ingredients": [
+          "Chicken",
+          "Rice",
+          "Onions",
+          "Spices (cumin, coriander, turmeric, chili powder, garam masala)",
+          "Yogurt"
+        ],
+        "method": " Marinate chicken in yogurt and spices for at least an hour. Fry onions until golden brown. Add chicken and fry until browned. Boil rice and add the chicken mixture to it. Cook on low heat for about 20 minutes or until the rice is cooked. Serve hot.",
+        "rating": 4.9
+  },
+  {
+    "name": "Shorshe Ilish",
+    "pic": "https://media.istockphoto.com/id/1446832369/photo/top-view-of-a-shorshe-ilish-a-fish-cooking-with-mustard-seed-famous-bengali-food-white.jpg?s=612x612&w=is&k=20&c=THNoXOT0rDwByUmq8TnSFoAl6kj9pkIRm-BPnTP1f0w=",
+    "ingredients": [
+      "Hilsa fish",
+      "Mustard paste",
+      "Turmeric powder",
+      "Green chilies",
+      "Mustard oil",
+      "Salt"
+    ],
+    "method": " Marinate the fish with turmeric and salt for 10 minutes. Heat mustard oil in a pan and fry the fish until browned. In the same oil, add mustard paste and green chilies and cook until fragrant. Add a little water and cook until the sauce thickens. Add the fish to the sauce and cook for a few more minutes. Serve hot with rice.",
+    "rating": 4.7
+  }
+     
+]
+  },
+  {
+    "id": 6,
+    "name": "Nurul Islam",
+"description": "Nurul Islam is a Bangladeshi chef and entrepreneur known for her innovative approach to fusion cuisine and her popular chain of gourmet food trucks.",
+    "pic": "https://img.freepik.com/free-photo/chef-posing-with-knife-his-kitchen_155003-502.jpg?size=626&ext=jpg&ga=GA1.1.145880518.1681239594&semt=ais",
+    "experience": "18 years",
+    "no_of_recipe": 400,
+    "likes": 7000,
+    "recipes": [ {
+        "name": "Shorshe Ilish",
+        "pic": "https://media.istockphoto.com/id/1446832369/photo/top-view-of-a-shorshe-ilish-a-fish-cooking-with-mustard-seed-famous-bengali-food-white.jpg?s=612x612&w=is&k=20&c=THNoXOT0rDwByUmq8TnSFoAl6kj9pkIRm-BPnTP1f0w=",
+        "ingredients": [
+          "Hilsa fish",
+          "Mustard paste",
+          "Turmeric powder",
+          "Green chilies",
+          "Mustard oil",
+          "Salt"
+        ],
+        "method": " Marinate the fish with turmeric and salt for 10 minutes. Heat mustard oil in a pan and fry the fish until browned. In the same oil, add mustard paste and green chilies and cook until fragrant. Add a little water and cook until the sauce thickens. Add the fish to the sauce and cook for a few more minutes. Serve hot with rice.",
+        "rating": 4.7
+      },
+      {
+        "name": "Beef Bhuna",
+        "pic": "https://img.freepik.com/premium-photo/sukha-mutton-chicken-dry-spicy-murgh-goat-meat-served-plate-bowl_466689-82788.jpg?size=626&ext=jpg&ga=GA1.1.145880518.1681239594&semt=ais",
+        "ingredients": [
+          "Beef",
+          "Onions",
+          "Ginger",
+          "Garlic",
+          "Tomatoes",
+          "Spices (cumin, coriander, turmeric, chili powder)"
+        ],
+        "method": " Heat oil in a pan and fry the onions until golden brown. Add ginger and garlic and fry until fragrant. Add the beef and spices and cook until the beef is browned. Add tomatoes and cook until the tomatoes are soft and the beef is tender. Serve hot.",
+        "rating": 4.7
+      },
+      {
+        "name": "Chingri Malai Curry",
+        "pic": "https://media.istockphoto.com/id/1254274918/photo/indian-jumbo-tiger-prawns-bengali-and-kolkatas-most-popular-dish-chingri-malai-curry.jpg?s=2048x2048&w=is&k=20&c=PW1VFBwjpiMpjpxZ8m4OCTxZbeASEg_2n2TLwmKp6Ac=",
+        "ingredients": [
+          "Shrimp",
+          "Coconut Milk",
+          "Onions",
+          "Ginger",
+          "Garlic",
+          "Spices (cumin, coriander, turmeric, chili powder, garam masala)"
+        ],
+        "method": " Fry onions until golden brown. Add ginger and garlic and fry until fragrant. Add spices and fry for a few more minutes. Add shrimp and cook until they turn pink. Add coconut milk and cook for a few more minutes. Serve hot with rice.",
+        "rating": 4.6
+      }
+]
+  }
+]
